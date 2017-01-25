@@ -1,6 +1,7 @@
 # BoB Marley the BiPed
 BoB Marley the BiPed
 
+<img src="./images/bob1.jpeg" width="250" />
 ### Links
 
 * [BoB the BiPed on instructables](http://www.instructables.com/id/BoB-the-BiPed/)
