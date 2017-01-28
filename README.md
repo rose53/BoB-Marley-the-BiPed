@@ -14,7 +14,7 @@
 * 74HC595
 * LEDs/Resistors
 
-<img src="./images/bob.svg" width="800" />
+<img src="./images/bob.png" width="800" />
 
 
 ### Links
